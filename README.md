@@ -339,7 +339,7 @@ This project is licensed under the ISC License.
 
 If you have any questions or issues:
 - Open an issue on GitHub
-- Contact: your.email@example.com
+- Contact: emilylcy1@outlook.com
 
 ## 🎯 Future Enhancements
 
