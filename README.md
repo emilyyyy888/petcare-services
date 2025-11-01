@@ -7,8 +7,7 @@ A modern, full-stack web application for booking pet care services. Built with t
 ![Author](https://img.shields.io/badge/author-Emily%20Lu-brightgreen)
 
 ## 📸 Screenshots
-
-*Coming soon...*
+https://github.com/emilyyyy888/petcare-services/issues/1#issue-3578568695
 
 ## ✨ Features
 
