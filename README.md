@@ -12,13 +12,13 @@ A modern, full-stack web application for booking pet care services. Built with t
 
 ## ✨ Features
 
-### For Pet Owners (Students)
+### For Pet Owners 
 - 🔐 **User Authentication**: Secure registration and login
 - 🔍 **Search Services**: Find pet care services by name
 - 📅 **Book Services**: Easy booking with one click
 - 👤 **Profile Management**: View your account details and booking history
 
-### For Service Providers (Instructors)
+### For Service Providers
 - ➕ **Create Listings**: Post your pet care services
 - 📊 **Manage Services**: View all your offerings and bookings
 - 🔒 **Protected Routes**: Secure access to provider-only features
