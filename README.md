@@ -8,7 +8,9 @@ A modern, full-stack web application for booking pet care services. Built with t
 
 ## 📸 Screenshots
 
-![image](https://private-user-images.githubusercontent.com/180543201/508610920-27354c71-1a6f-4fb0-b4d6-a5d1ebd48645.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIwMzgyMDEsIm5iZiI6MTc2MjAzNzkwMSwicGF0aCI6Ii8xODA1NDMyMDEvNTA4NjEwOTIwLTI3MzU0YzcxLTFhNmYtNGZiMC1iNGQ2LWE1ZDFlYmQ0ODY0NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwMVQyMjU4MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMmFhOTMyNmNjYjVhZTA4NDYxYTUxNTZmMzQzOTAzNjYzNmY3NGMyZjA0OGZjYTcwNDdkMTM3ZTg4YTFjMWRiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tmk5lYL1IsLStnZoEsuNv9c2L1PMmpJvUf9a4cYWK6A)
+<img width="2846" height="2856" alt="Image" src="https://github.com/user-attachments/assets/27354c71-1a6f-4fb0-b4d6-a5d1ebd48645" />
+<img width="2846" height="1488" alt="Image" src="https://github.com/user-attachments/assets/839fd83d-1cb4-45e5-9b16-50c7927d2080" />
+<img width="2846" height="1848" alt="Image" src="https://github.com/user-attachments/assets/a63d0e03-623b-4ab7-90a2-d138127937bd" />
 
 ## ✨ Features
 
